@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RaadConnect Demo</string>
+
+    <string name="charging_account">شارژ حساب</string>
+    <string name="add_account_credit">افزایش اعتبار حساب</string>
+    <string name="charging_account_description">مبلغ مورد نظر خود را جهت شارژ وارد نمایید</string>
+    <string name="add_credit_price">افزایش مبلغ اعتبار</string>
+    <string name="enter_price">مبلغ را وارد کنید</string>
+    <string name="pay_to_raad">پرداخت به راد</string>
+
+</resources>
